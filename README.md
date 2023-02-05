@@ -1,4 +1,2 @@
-# GOV212
-Filer til labøkt 09.02.23
-
-Dette la eg inn via RStudio.
+# GOV212/ Klima, kriser og samfunnstryggleik. Handtering av uregjerlege samfunnsutfordringar
+Her ligg filene de treng til å gjere analysar av data frå Norsk medborgerpanel til arbeidskravet. 
